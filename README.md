@@ -12,4 +12,3 @@ You can follow me on these platforms to get more information about me and follow
 
 <img alt="Nodejs" align="center" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
-! [Test] ( https://github-readme-stats.vercel.app/api/top-langs/?BereavDev=BereavDev&theme=blue-green)
